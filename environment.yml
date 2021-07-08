@@ -1,0 +1,10 @@
+- python=3
+- pip:
+  - spacy
+  - ipykernel
+  - scipy
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - thinc
